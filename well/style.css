@@ -1,0 +1,24 @@
+body{
+    background-color: rgba(0, 0, 0, 0.2);
+    background-image: url(702023009_univ_lsr_md.jpg);
+}
+/* {
+    MARGIN: 0PX;
+    FONT-FAMILY::before;
+} */
+H1{
+    color: black;
+font-size: 20PX;
+} 
+/*o princípio da proporcionalidade partidária
+*/
+.centro{
+    text-align: center;
+    color: blue;
+}
+#teste{
+   color: brown;
+}
+/* quem foi que inventou isso?
+*/
+
